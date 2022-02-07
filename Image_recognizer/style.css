@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(rgb(184, 239, 255) 0% ,pink 100%)
+}
+
+hr{
+    border-color:darkblue
+}
+#camera{
+    border-style: dotted;
+}
+#result{
+    border-style: dotted;
+    border-color: rgb(252, 160, 192);
+    width:360;
+    height:310;
+}
